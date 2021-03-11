@@ -12,7 +12,7 @@ Teste do quarto commit
 
 @SpringBootApplication
 public class ProfessorAllocationApplication {
-
+// sexto teste
 	public static void main(String[] args) {
 		SpringApplication.run(ProfessorAllocationApplication.class, args);
 	}
